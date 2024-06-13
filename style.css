@@ -11,7 +11,10 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url("https://source.unsplash.com/random");
+  background-image: url('https://static.vecteezy.com/ti/fotos-gratis/t2/15191972-aurora-boreal-sobre-o-mar-montanhas-nevadas-e-luzes-da-cidade-a-noite-foto.jpg');
+  /* background-image: radial-gradient( rgb(0, 89, 255),rgba(7, 78, 119, 0.774)); */
+  background-repeat: no-repeat;
+  background-size: cover;
   color: white;
 }
 .container-all {
